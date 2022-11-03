@@ -1,0 +1,42 @@
+Customer_ID(NK),Customer_Name,Addr1,Addr2,City,State,Zip,Customer_Type
+0,"Specialty Teleconstructors Inc.","1570 Hordes Dr.",,Columbia,SC,29260,Govt
+1,"Room Plus Inc.","6037 Ecuadorian St.","Suite 836",Clinton,MI,49236,Comm
+2,"Motts Holdings Inc.","1618 Greenland St.",,Tallahassee,FL,32304,Edu
+3,"Beckman Coulter Inc.","5841 Pervades Dr.",,Fairfax,VA,22035,Edu
+4,"Magainin Pharmaceuticals Inc.","9138 Planetesimal Lane","Dept #332",Twining,MI,48766,Govt
+5,"Sterling Financial Corp. Washington","7258 Meriting Ave.","Dept #505",Portland,OR,97201,Edu
+6,"Fidelity National Corp. Ga","11455 Sheaf Dr.","Dept #915",Anthony,FL,32617,State
+7,"Fedders Corp.","3311 Blatantly Circle","Dept #520","Santa Fe Springs",CA,90670,Edu
+8,"United Healthcare Corp.","675 Hordes Turnpike","Dept #855",Malaga,NM,88263,Edu
+9,"Greate Bay Casino Corp. De","4255 Depart Lane","Dept #242","Randolph Air Force Base",TX,78148,Govt
+10,"Saint Andrews Golf Corp.","8068 Substances St.",,"North Miami",FL,33261,Govt
+11,"Synaptic Pharmaceutical Corp.","8072 Powerless St.",,Bridgeport,IL,62417,Comm
+12,"Cohesant Technologies Inc.","3334 Eggshell Circle","Dept #690",Oakley,SC,29461,Govt
+13,"Publishing Co. Of North America Inc.","978 Degrees St.","Suite 518","Heron Bay",AL,36523,State
+14,"Newcor Inc.","8717 Involve Dr.","Suite 401",Homer,MI,49245,State
+15,"Railamerica Inc.","576 Stew Turnpike",,"Mans De Navarro",PR,00778,Comm
+16,"Meridian Resources Corp.","1977 Symbiotic Turnpike","Dept #804","Fall River",MA,02724,Comm
+17,"V.E.V. Sa","7079 Aspect Circle",,"Ross Siding",PA,17723,Govt
+18,"Scp Pool Corp.","755 Leek St.","Suite 251",Enid,OK,73706,Govt
+19,"Camera Platforms International Inc.","5347 Deposed St.",,Houston,TX,77244,State
+20,"Labor Ready Inc.","4618 Days Dr.","Dept #759",Waterville,WA,98858,Govt
+21,"Shaw Brothers","2567 Cardinal Dr.","Suite 371","Whiskey Flats",NV,89415,State
+22,"Chemfix Technologies Inc.","11533 Wonderingly Dr.","Suite 50","Pasadena Hills",MO,63121,State
+23,"Ligand Pharmaceuticals Inc.","8092 Blue St.",,Moorcroft,WY,82721,Govt
+24,"Helpmate Robotics Inc.","9711 Writers Turnpike","Suite 213","Saint Cloud",WI,53079,Edu
+25,"Liberty Homes Inc.","3051 Bumblers Lane",,Medon,TN,38356,Govt
+26,"Firstfed America Bancorp Inc.","5656 Settler St.","Dept #851","Ward Prairie",TX,75840,Edu
+27,"Lnr Property Corp.","9382 Demolition St.",,"College Square",IA,50613,Govt
+28,"Gte Corp.","7196 Heaver Lane","Dept #532","Winter Garden",FL,34777,State
+29,"Usx steel Group Inc.","7120 Whimsically Turnpike",,Olympia,WA,98501,State
+30,"Pulitzer Publishing Co.","126 Pathological Circle","Suite 277",Woodbury,NY,11797,State
+31,Setron,"3085 Breakthrough Dr.","Dept #80",Hart,MO,64865,State
+32,"Greenman Technologies Inc.","4910 Liveried Boulevard",,Dabney,IN,47023,Govt
+33,"Polymer Group Inc.","11368 Harder Dr.","Suite 204",Maidstone,VT,05905,Comm
+34,"Emerson Electric Co.","1792 Squash Dr.",,"South Texarkana",TX,75501,Edu
+35,"Integra  A Hotel & Restaurant Co.","5222 Blazed St.","Dept #822",Parsons,TN,38363,Govt
+36,"Hickory Tech Corp.","11119 Periphery Turnpike","Dept #633",Simpson,LA,71474,Govt
+37,"Televideo Inc.","939 Publishers Turnpike","Dept #793","Fort Hood",TX,76544,Edu
+38,"Seattle Filmworks Inc.","4958 Dietitian St.",,Davis,MO,63379,Govt
+39,"Pricellular Corp.","10947 Eagle St.","Dept #5","Lisbon Falls",ME,04252,Comm
+40,"Processing Equip. Corp.","29843 Klingon Rd.","Dept #2",Naperville,IL,60563,Comm

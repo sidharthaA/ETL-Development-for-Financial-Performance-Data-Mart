@@ -1,0 +1,120 @@
+Customer_SK,Customer_ID(NK),Customer_Name,Addr1,Addr2,City,State,Zip,Product_Type_Description,Total_Sales_Amount,Total_Profit,Total_Qty_Purchased
+2,1,Haynes,"2920 Auctor Rd."," ",Moraga,AZ,70314,"Polishing Equipment",18801041.01,3307155.01,64988.00
+5,2,"Rudyard Knapp","9261 Nulla St."," ","Sault Ste Marie",LA,94298,"Polishing Equipment",18821903.73,3099614.73,65581.00
+8,3,"Baxter May","796-2366 Vel Ave."," ",Meriden,FL,58328,"Polishing Equipment",18440693.52,3071995.52,61084.00
+11,4,"Maya Brewer","PO Box 825 6836 At Rd."," ","Union City",ND,82051,"Polishing Equipment",18769040.46,3041390.46,63381.00
+14,5,"Mullins Inc.","4009 Ornare Rd."," ",Birmingham,NE,59509,"Polishing Equipment",18975357.58,3075695.58,63124.00
+17,6,"Raphael Allison","734-2598 Sed Ave."," ","La Crosse",HI,58702,"Polishing Equipment",19665394.71,3384669.71,67590.00
+20,7,"Martin Donaldson","2704 At Rd."," ",Gardner,GA,31421,"Polishing Equipment",20451403.25,3360975.25,68223.00
+23,8,"Gemma Castro","9101 Duis St."," ",Passaic,VT,40926,"Polishing Equipment",19779717.23,3405332.23,65912.00
+26,9,"The Product Co. (East)","20021 Barnes Rd."," ",Stratford,NY,13470,"Polishing Equipment",17362669.40,2838353.40,59603.00
+29,10,"Hammett Farley","1668 In St."," ",Yonkers,AK,18651,"Polishing Equipment",19968652.37,3269707.37,66439.00
+32,11,"Austin Ferrell","8666 Justo Rd."," ",Pullman,PA,55979,"Polishing Equipment",18636621.32,3083131.32,62546.00
+35,12,Cain,"1116 Augue St."," ",Warwick,DC,38450,"Polishing Equipment",19026417.65,3202146.65,65158.00
+38,13,Knight,"765 Eget Ave."," ",Eureka,FL,57500,"Polishing Equipment",19059132.52,3177806.52,63923.00
+41,14,Serrano,"7212 Eleifend St."," ",Princeton,KY,66785,"Polishing Equipment",17457869.43,2930490.43,58425.00
+44,15,"Colton Maldonado","1869 Leo Rd."," ","Cedar Rapids",SD,97640,"Polishing Equipment",20099297.71,3440017.71,66633.00
+47,16,Googol,"5453 Dictum Ave."," ",Jenks,LA,96393,"Polishing Equipment",19105580.61,3112332.61,65531.00
+50,17,"Mallory Lynch","974 Nisl Rd."," ",Washington,ME,15623,"Polishing Equipment",18202269.98,3014637.98,63616.00
+53,18,"Melvin House","8371 Nullam Rd."," ","Isle of Palms",ME,89644,"Polishing Equipment",18279189.59,3135374.59,62482.00
+56,19,"Emerson Electric Co.","1792 Squash Dr."," ","South Texarkana",TX,75501,"Polishing Equipment",19232653.02,3242238.02,64394.00
+59,20,"Pewter Gym","9028 Non St."," ",Sandy,FL,87202,"Polishing Equipment",19828098.27,3288739.27,68102.00
+62,21,"Hop Adams","704 Nisl Rd."," ","Sun Valley",NH,84458,"Polishing Equipment",17489061.73,2953126.73,59971.00
+65,22,"Xavier Harmon","2285 Ante St."," ",Farmington,WV,16456,"Polishing Equipment",18139843.61,2859831.61,60832.00
+68,23,Cross,"112 In Rd."," ",Opelousas,GA,43882,"Polishing Equipment",19041951.25,3204577.25,65962.00
+71,24,"Martinez Disposables","5331 Nunc Ave."," ",Tucson,DC,79991,"Polishing Equipment",19958621.77,3266892.77,66643.00
+74,25,Atkins,"4607 Risus Rd."," ",Waukegan,NC,43147,"Polishing Equipment",19534912.13,3243622.13,65046.00
+77,26,"Dakota Mills","7442 Amet Ave."," ",Syracuse,DE,56656,"Polishing Equipment",20470875.64,3352941.64,68603.00
+80,27,"Clare Baird","6152 Auctor Rd."," ",Wilson,MS,29338,"Polishing Equipment",20209489.82,3281822.82,66769.00
+83,28,"Schultz Learning","8542 Quis St."," ",Spartanburg,ND,73217,"Polishing Equipment",18636588.81,3067893.81,63014.00
+86,29,Blevins,"2571 Donec Ave."," ",Winooski,SD,65512,"Polishing Equipment",20282292.90,3329822.90,68163.00
+89,30,"Knox Reid","500 Eu Ave."," ","Pass Christian",WY,35949,"Polishing Equipment",20184706.50,3436028.50,66837.00
+92,31,"Starfleet Academy","3061 Donec Ave."," ",Canandaigua,UT,75963,"Polishing Equipment",18031599.78,2931738.78,60829.00
+95,32,"Ferengi Treasures","716-6837 Vulputate Ave."," ",Paramount,NY,35644,"Polishing Equipment",19533567.25,3280218.25,68072.00
+98,33,Tallulah,"3376 Aliquet St."," ",Batavia,NM,50742,"Polishing Equipment",17203625.64,2913897.64,58918.00
+101,34,"The Product Co. (West)","21 E Bullard Ave."," ",Fresno,CA,93710,"Polishing Equipment",19618898.82,3299449.82,67549.00
+104,35,"Ann Lee","3845 Nunc Rd."," ",Merizo,GA,10764,"Polishing Equipment",20172863.74,3415142.74,69246.00
+107,36,"Kuame Barnes","8757 Tincidunt Rd."," ",Lahaina,RI,60529,"Polishing Equipment",22032929.29,3613523.29,72743.00
+110,37,"Beverly Equip.","7581 Quisque St."," ",Bloomington,HI,88440,"Polishing Equipment",18301001.03,3091716.03,62630.00
+113,38,"Firstfed America Bancorp Inc.","5656 Settler St."," ","Ward Prairie",TX,75840,"Polishing Equipment",19922351.21,3344908.21,68322.00
+116,39,"Ronan French","8773 Feugiat Rd."," ",Gary,WA,17387,"Polishing Equipment",18496303.08,3281126.08,63755.00
+119,40,"Zena Machines","1277 Hendrerit Ave."," ","San Juan",WA,07066,"Polishing Equipment",18781082.70,3155735.70,62757.00
+3,1,"Room Plus Inc.","6037 Ecuadorian St.","Suite 836",Clinton,MI,49236,"Polishing Equipment",1012101.79,203055.06,3016.00
+6,2,"Motts Holdings Inc.","1618 Greenland St.",,Tallahassee,FL,32304,"Polishing Equipment",1005912.36,200642.87,2839.00
+9,3,"Beckman Coulter Inc.","5841 Pervades Dr.",,Fairfax,VA,22035,"Polishing Equipment",1038728.99,210270.58,3032.00
+12,4,"Magainin Pharmaceuticals Inc.","9138 Planetesimal Lane","Dept #332",Twining,MI,48766,"Polishing Equipment",1029774.21,211068.39,2970.00
+15,5,"Sterling Financial Corp. Washington","7258 Meriting Ave.","Dept #505",Portland,OR,97201,"Polishing Equipment",1292265.24,259827.72,3583.00
+18,6,"Fidelity National Corp. Ga","11455 Sheaf Dr.","Dept #915",Anthony,FL,32617,"Polishing Equipment",1085524.57,227475.27,3095.00
+21,7,"Fedders Corp.","3311 Blatantly Circle","Dept #520","Santa Fe Springs",CA,90670,"Polishing Equipment",1102264.96,225780.96,3097.00
+24,8,"United Healthcare Corp.","675 Hordes Turnpike","Dept #855",Malaga,NM,88263,"Polishing Equipment",1057615.98,212193.18,3178.00
+27,9,"Greate Bay Casino Corp. De","4255 Depart Lane","Dept #242","Randolph Air Force Base",TX,78148,"Polishing Equipment",1227977.32,247159.87,3405.00
+30,10,"Saint Andrews Golf Corp.","8068 Substances St.",,"North Miami",FL,33261,"Polishing Equipment",1186897.14,241708.22,3408.00
+33,11,"Synaptic Pharmaceutical Corp.","8072 Powerless St.",,Bridgeport,IL,62417,"Polishing Equipment",1140336.10,230896.24,3341.00
+36,12,"Cohesant Technologies Inc.","3334 Eggshell Circle","Dept #690",Oakley,SC,29461,"Polishing Equipment",1165263.82,237070.33,3330.00
+39,13,"Publishing Co. Of North America Inc.","978 Degrees St.","Suite 518","Heron Bay",AL,36523,"Polishing Equipment",1186333.57,239826.16,3489.00
+42,14,"Newcor Inc.","8717 Involve Dr.","Suite 401",Homer,MI,49245,"Polishing Equipment",1298426.66,266128.73,3486.00
+45,15,"Railamerica Inc.","576 Stew Turnpike",,"Mans De Navarro",PR,00778,"Polishing Equipment",1255589.32,256055.26,3506.00
+48,16,"Meridian Resources Corp.","1977 Symbiotic Turnpike","Dept #804","Fall River",MA,02724,"Polishing Equipment",1231196.61,251043.42,3610.00
+51,17,"V.E.V. Sa","7079 Aspect Circle",,"Ross Siding",PA,17723,"Polishing Equipment",1204230.73,248585.40,3505.00
+54,18,"Scp Pool Corp.","755 Leek St.","Suite 251",Enid,OK,73706,"Polishing Equipment",1194087.81,244261.87,3511.00
+57,19,"Camera Platforms International Inc.","5347 Deposed St.",,Houston,TX,77244,"Polishing Equipment",1311990.68,269127.69,3727.00
+60,20,"Labor Ready Inc.","4618 Days Dr.","Dept #759",Waterville,WA,98858,"Polishing Equipment",1215063.29,247141.06,3441.00
+63,21,"Shaw Brothers","2567 Cardinal Dr.","Suite 371","Whiskey Flats",NV,89415,"Polishing Equipment",1053036.66,213275.43,3008.00
+66,22,"Chemfix Technologies Inc.","11533 Wonderingly Dr.","Suite 50","Pasadena Hills",MO,63121,"Polishing Equipment",1094524.43,218501.80,3162.00
+69,23,"Ligand Pharmaceuticals Inc.","8092 Blue St.",,Moorcroft,WY,82721,"Polishing Equipment",1149046.42,229945.04,3356.00
+72,24,"Helpmate Robotics Inc.","9711 Writers Turnpike","Suite 213","Saint Cloud",WI,53079,"Polishing Equipment",1332643.23,271451.44,3775.00
+75,25,"Liberty Homes Inc.","3051 Bumblers Lane",,Medon,TN,38356,"Polishing Equipment",1153084.31,237964.97,3212.00
+78,26,"Firstfed America Bancorp Inc.","5656 Settler St.","Dept #851","Ward Prairie",TX,75840,"Polishing Equipment",997316.75,200869.72,3009.00
+81,27,"Lnr Property Corp.","9382 Demolition St.",,"College Square",IA,50613,"Polishing Equipment",1386391.34,283440.85,3956.00
+84,28,"Gte Corp.","7196 Heaver Lane","Dept #532","Winter Garden",FL,34777,"Polishing Equipment",1400124.47,288609.84,3761.00
+87,29,"Usx steel Group Inc.","7120 Whimsically Turnpike",,Olympia,WA,98501,"Polishing Equipment",1144694.84,229728.69,3229.00
+90,30,"Pulitzer Publishing Co.","126 Pathological Circle","Suite 277",Woodbury,NY,11797,"Polishing Equipment",1187771.69,235959.20,3388.00
+93,31,Setron,"3085 Breakthrough Dr.","Dept #80",Hart,MO,64865,"Polishing Equipment",1172662.43,234693.11,3323.00
+96,32,"Greenman Technologies Inc.","4910 Liveried Boulevard",,Dabney,IN,47023,"Polishing Equipment",1255620.26,252518.03,3569.00
+99,33,"Polymer Group Inc.","11368 Harder Dr.","Suite 204",Maidstone,VT,05905,"Polishing Equipment",1118601.08,226739.20,3162.00
+102,34,"Emerson Electric Co.","1792 Squash Dr.",,"South Texarkana",TX,75501,"Polishing Equipment",1203190.63,244958.68,3329.00
+105,35,"Integra  A Hotel & Restaurant Co.","5222 Blazed St.","Dept #822",Parsons,TN,38363,"Polishing Equipment",1220055.64,244680.27,3486.00
+108,36,"Hickory Tech Corp.","11119 Periphery Turnpike","Dept #633",Simpson,LA,71474,"Polishing Equipment",1046803.81,214163.76,3073.00
+111,37,"Televideo Inc.","939 Publishers Turnpike","Dept #793","Fort Hood",TX,76544,"Polishing Equipment",1141369.43,229779.34,3245.00
+114,38,"Seattle Filmworks Inc.","4958 Dietitian St.",,Davis,MO,63379,"Polishing Equipment",1257339.23,253116.97,3431.00
+117,39,"Pricellular Corp.","10947 Eagle St.","Dept #5","Lisbon Falls",ME,04252,"Polishing Equipment",1318232.12,268542.38,3582.00
+4,1,"Beverly Equip.","7581 Quisque St.",,Bloomington,HI,88440,"Polishing Equipment",8508935.75,1597239.75,23858.00
+7,2,"Clio Hutchinson","1257 Ac Ave.",,Butler,SC,82126,"Polishing Equipment",9361538.90,1728528.60,26037.00
+10,3,YuliChem,"6440 Amet St.",,"Laguna Woods",KY,53141,"Polishing Equipment",10410653.58,1924507.21,28101.00
+13,4,"Austin Burns","2041 Venenatis Ave.",,Alexandria,DC,34440,"Polishing Equipment",9060595.02,1712414.96,25888.00
+16,5,"Saint Andrews Golf Corp.","8068 Substances St.",,"North Miami",FL,33261,"Polishing Equipment",8703489.86,1544351.22,25129.00
+19,6,"Austin Ferrell","8666 Justo Rd.",,Pullman,PA,55979,"Polishing Equipment",9399584.50,1710621.87,28044.00
+22,7,"Hop Adams","704 Nisl Rd.",,"Sun Valley",NH,84458,"Polishing Equipment",9454050.09,1714688.89,27513.00
+25,8,"Mullins Inc.","4009 Ornare Rd.",,Birmingham,NE,59509,"Polishing Equipment",9028323.95,1683085.34,27408.00
+28,9,"Meridian Resources Corp.","1977 Symbiotic Turnpike","Dept #805","Fall River",MA,02724,"Polishing Equipment",8282407.20,1568490.73,22984.00
+31,10,"Byron Chemicals","6831 Donec St.",,"Salt Lake City",IN,41050,"Polishing Equipment",8311183.46,1561742.62,24663.00
+34,11,Beasley,"7800 Nec Rd.",,Idabel,MA,57132,"Polishing Equipment",9065989.28,1644764.58,28128.00
+37,12,"Processing Equip. Corp.","29843 Klingon Rd.",,Naperville,IL,60563,"Polishing Equipment",8845273.72,1633879.57,26409.00
+40,13,"Zena Machines","1277 Hendrerit Ave.",,"San Juan",WA,07066,"Polishing Equipment",8848088.44,1593025.96,25163.00
+43,14,"The Final Frontier","528 Curabitur Rd.",,Biddeford,MO,39683,"Polishing Equipment",9895304.21,1824651.75,26494.00
+46,15,"Merritt Long","3072 Cursus Ave.","Suite 30","West Haven",WY,83709,"Polishing Equipment",9553944.45,1785384.03,28063.00
+49,16,"Martinez Disposables","5331 Nunc Ave.",,Tucson,DC,79991,"Polishing Equipment",8978390.43,1644065.92,26446.00
+52,17,"Camera Platforms International Inc.","5347 Deposed St.",,Houston,TX,77244,"Polishing Equipment",8856671.81,1619274.32,26250.00
+55,18,Cross,"6605 Rhoncus Ave.",,Hopkinsville,NH,25620,"Polishing Equipment",9371729.76,1655788.64,26202.00
+58,19,"Firstfed America Bancorp Inc.","5656 Settler St.",,"Ward Prairie",TX,75840,"Polishing Equipment",9744654.95,1816103.92,27614.00
+61,20,"Price Rivers","2853 Aenean Ave.",,"Sault Ste Marie",MS,59316,"Polishing Equipment",9410824.85,1723772.82,28094.00
+64,21,"Santos LLC.","9130 Fames Rd.",,Billings,IN,12869,"Polishing Equipment",9738454.91,1809542.74,28383.00
+67,22,"Santiago Processing","4565 Tempor Ave.",,Hanahan,AK,15743,"Polishing Equipment",8630661.32,1585746.75,25182.00
+70,23,"Chemfix Technologies Inc.","11533 Wonderingly Dr.","Suite 50","Pasadena Hills",MO,63121,"Polishing Equipment",8876910.19,1604955.39,25414.00
+73,24,"Chantale Huffman Inc.","2761 Infinity St.",,"New Iberia",NH,65327,"Polishing Equipment",8463943.73,1581789.59,23623.00
+76,25,"Garrison Works","3801 Lacus Rd.",,Reno,WV,46307,"Polishing Equipment",9524759.96,1699088.26,27502.00
+79,26,"Ruby Petty","3142 Congue St.",,Chicago,IL,76404,"Polishing Equipment",9720515.51,1805918.28,27421.00
+82,27,"Emerson Electric Co.","1792 Squash Dr.",,"South Texarkana",TX,75501,"Polishing Equipment",9669069.33,1744255.50,28036.00
+85,28,"Oleg Jones","5491 Nec Rd.",,Moraga,NE,82394,"Polishing Equipment",9608392.90,1785659.93,27942.00
+88,29,"Genevieve Day","284-1916 Ac St.",,Troy,IN,68914,"Polishing Equipment",8812826.60,1635165.92,25603.00
+91,30,Setron,"3085 Breakthrough Dr.","Dept #80",Hart,MO,64865,"Polishing Equipment",8878861.52,1690658.41,25472.00
+94,31,"Fuentes Inc.","7063 Phasellus Rd.",,Compton,WV,68519,"Polishing Equipment",9296336.50,1764386.57,26632.00
+97,32,"Mendoza Chem","4826 Urna Ave.",,Everett,MD,87048,"Polishing Equipment",8614854.39,1609830.50,25459.00
+100,33,"India Stuart","1973 At Ave.",,Cudahy,CA,76482,"Polishing Equipment",8916166.31,1657970.11,26680.00
+103,34,"Pulitzer Publishing Co.","126 Pathological Circle",,Woodbury,NY,11797,"Polishing Equipment",9605902.48,1732102.93,28612.00
+106,35,"Ferdinand Supply","6979 Quis St.",,Nome,DE,58359,"Polishing Equipment",9042565.86,1666141.58,26619.00
+109,36,"Charity Inc.","3254 Hendrerit Ave.",,Effingham,WY,27502,"Polishing Equipment",8703911.01,1603622.64,24675.00
+112,37,"Ronan French","8773 Feugiat Rd.",,Gary,WA,17387,"Polishing Equipment",8261101.98,1557984.57,23633.00
+115,38,Blevins,"2571 Donec Ave.",,Winooski,SD,65512,"Polishing Equipment",9482451.57,1722735.14,27074.00
+118,39,"Ashton Washington","7726 Donec Rd.",,Vallejo,MA,01999,"Polishing Equipment",10721101.19,2027425.74,30091.00
+121,40,"Gte Corp.","7196 Heaver Lane","Dept #555 ","Winter Garden",FL,34777,"Polishing Equipment",8821103.94,1618260.06,26907.00
